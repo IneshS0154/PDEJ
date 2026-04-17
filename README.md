@@ -25,10 +25,6 @@ Please be aware that some antivirus software may flag the "memory.dll" file as a
 
 Please note that the current version available on GitHub is a limited version, featuring only the main menu. If you're interested in accessing the full version with additional functionalities like login, splashes, etc., check out the link provided [here](link-to-full-version).
 
-## Screenshots
-
-![Screenshot 2022-06-18 083335](https://user-images.githubusercontent.com/75931958/174420242-5a8f1aa8-c2e2-4a65-a7c7-7096f8fec5e7.png)
-
 ## Getting Started
 
 To get started with PDEJ, follow these steps:
@@ -55,8 +51,6 @@ Please ensure that you adhere to the project's coding conventions and keep the c
 
 This project is licensed under the [MIT License](LICENSE).
 
-## Contact
 
-For any questions or feedback, feel free to contact us at [your-email@example.com](mailto:your-email@example.com).
 
 
